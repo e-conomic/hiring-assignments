@@ -11,7 +11,7 @@ In e-conomic it is possible to import your bank statements and use these to crea
 
 But what if we could make this process even smoother by learning how the expenses should be booked? Wouldn’t that be great? If we know that a company's books looks like this:
 
-    “Cleaning service & Co 45JW5PP12”	       --> Maintenance account
+    “Cleaning service & Co 45JW5PP12”          --> Maintenance account
     “Andersen’s cleaning service 02.02.2017”   --> Maintenance account
     “McDonald's Nørrebro”                      --> Employee catering account
 
