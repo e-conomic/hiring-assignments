@@ -27,10 +27,10 @@ Each `Filename` have a corresponding image in the zipfile of either `.jpg`, `.jp
 
 ## Guidelines
 We would like to remind you of a few important things:
-- This data it real and a small set. An acceptable model might not exist, so don't feel bad if your results are disappointing. But we believe it is possible to get an idea of viability out of it.  
+- The data set is quite small and created from real world images. An acceptable model might not exist, so don't feel bad if your results are disappointing. But we believe that it is possible to get an idea weather a model is viability given the data.  
 - Focus on the right stuff. Don't spend many hours on data wrangling and other stuff that does not show us your true skill-set. Instead, please make a few assumptions, and make sure to tell us about the assumptions you made.
-- We do not judge you on the accuracy of your predictive model, but on your problem solving skills. So don't spend all your time tweeking parameters.
+- We do not judge you on the accuracy of your predictive model, but on your problem solving skills. So don't spend all your time tweaking parameters.
 - Use what ever tech stack you feel comfortable using.
 
 ## Got stuck?
-You can always email us and ask for advice or just ask question to ensure you correctly understood the task. This will not be seen as a sign of weakness, to the contrary it shows that fully understanding the problem is important to you.
+You can always email us and ask for advice or just ask questions to ensure you correctly understood the task. This will not be seen as a sign of weakness, to the contrary it shows that fully understanding the problem is important to you.
