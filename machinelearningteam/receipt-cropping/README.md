@@ -15,7 +15,7 @@ Your task is to build a proof of concept model that can find all 4 corners of th
   - What should the next steps be if we want to get it in production
 
 ## Data
-The data consists of a zip file containing 133 images and labels. The data can be downloaded here
+The data consists of a zip file containing 133 images and labels. The data can be found in this folder in the file `cropping_data.zip`
 
 The labels are in the file ‘cropped_coords.csv’ with the following format:
 
