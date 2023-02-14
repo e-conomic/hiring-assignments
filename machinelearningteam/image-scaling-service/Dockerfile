@@ -14,7 +14,7 @@ COPY . .
 # Build the application
 RUN go build cmd/service/service.go
 
-FROM debian:stretch-slim AS runner
+FROM debian:11-slim AS runner
 
 WORKDIR /app
 
